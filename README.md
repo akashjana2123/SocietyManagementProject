@@ -3,7 +3,7 @@ used Bootstrap
 <h1>--HOW TO RUN--</h1> <br>
 Step1:<br>
   unzip the folder<br>
-<br>Step2:(in Terminal)(remember: you should be inside the folder before hitting the commands)<br>
+<br>Step2: (in Terminal)(remember: you should be inside the folder before hitting the commands)<br>
   python -m venv env<br>
   python -m pip install -r requirements.txt <br>
   env/Scripts/Activate     //(To activate the python environment)<br>
