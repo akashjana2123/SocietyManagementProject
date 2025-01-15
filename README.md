@@ -1,9 +1,9 @@
 # SocietyManagementProject
 used Bootstrap
---HOW TO RUN--
-Step1:
-  unzip the folder
-Step2:(in Terminal)(remember: you should be inside the folder before hitting the commands)
+--HOW TO RUN-- <br>
+Step1:<br>
+  unzip the folder<br>
+Step2:(in Terminal)(remember: you should be inside the folder before hitting the commands)<br>
   python -m venv env
   python -m pip install -r requirements.txt 
   env/Scripts/Activate     //(To activate the python environment)
